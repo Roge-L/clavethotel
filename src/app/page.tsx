@@ -25,7 +25,7 @@ export default function HomePage() {
         <div className="container mx-auto text-center">
           <h1 className="text-4xl font-bold mb-6">Welcome to Clavet Motor Inn</h1>
           <p className="text-lg mb-8">
-            Experience comfort and convenience at our cozy motel. Whether you're here for a relaxing stay or a quick stop, we offer a range of amenities to make your visit enjoyable.
+            Experience comfort and convenience at our cozy motel. Whether you&apos;re here for a relaxing stay or a quick stop, we offer a range of amenities to make your visit enjoyable.
           </p>
           <Image
             src="/temporary-cover-photo.jpg" // Replace with the path to your image
