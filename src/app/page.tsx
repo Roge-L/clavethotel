@@ -27,7 +27,7 @@ export default function HomePage() {
             <h4 className="text-lg font-semibold mb-2">Contact Us</h4>
             <p>2-10 Main St</p>
             <p>Clavet, SK S0K 0Y0</p>
-            <p>Phone: (306) 24292848</p>
+            <p>Phone: (306) 242-2848</p>
             <p>Email: admin@clavethotel.com</p>
           </div>
 
